@@ -1,7 +1,7 @@
 {
   "lastChangelogVersion": "0.85.1",
   "defaultProvider": "opencode",
-  "defaultModel": "mimo-v2.5-free",
-  "defaultThinkingLevel": "medium",
+  "defaultModel": "gpt-5.6-luna",
+  "defaultThinkingLevel": "max",
   "theme": "dark"
 }
