@@ -1,0 +1,19 @@
+# Pi Agent – lokale und generierte Dateien
+
+# Zugangsdaten / Tokens – niemals auf GitHub veröffentlichen
+auth.json
+
+# Sitzungsverläufe können private Inhalte und Prompts enthalten
+sessions/
+
+# Automatisch aktualisierter Modell-Cache
+models-store.json
+
+# Mitgelieferte bzw. heruntergeladene plattformspezifische Binärdateien
+bin/
+
+# Allgemeine lokale Dateien
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
