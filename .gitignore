@@ -2,6 +2,7 @@ auth.json
 sessions/
 models-store.json
 bin/
+npm/
 *.log
 *.tmp
 .DS_Store
